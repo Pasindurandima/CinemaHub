@@ -14,8 +14,8 @@ const Home = () => {
       rating: 8.2,
       genre: "Sci-Fi, Adventure",
       duration: "3h 12m",
-      image: "/src/assets/hero.png",
-      trailer: "/src/assets/trailer-1.mp4"
+      image: "/public/assets/hero.png",
+      trailer: "/public/assets/trailer-1.mp4"
     },
     {
       id: 2,
@@ -24,8 +24,8 @@ const Home = () => {
       rating: 8.7,
       genre: "Action, Drama",
       duration: "2h 10m",
-      image: "/src/assets/maverik.jpg",
-      trailer: "/src/assets/trailer-1.mp4"
+      image: "/public/assets/maverik.jpg",
+      trailer: "/public/assets/trailer-1.mp4"
     },
     {
       id: 3,
@@ -34,8 +34,8 @@ const Home = () => {
       rating: 7.9,
       genre: "Action, Adventure",
       duration: "2h 41m",
-      image: "/src/assets/blackpanthor.png",
-      trailer: "/src/assets/trailer-1.mp4"
+      image: "/public/assets/blackpanthor.png",
+      trailer: "/public/assets/trailer-1.mp4"
     }
   ];
 
@@ -45,28 +45,28 @@ const Home = () => {
       title: "Spider-Man: Across the Spider-Verse",
       releaseDate: "2024-08-15",
       genre: "Animation, Action",
-      image: "/src/assets/spiderman.jpg"
+      image: "/public/assets/spiderman.jpg"
     },
     {
       id: 5,
       title: "Guardians of the Galaxy Vol. 3",
       releaseDate: "2024-09-22",
       genre: "Action, Comedy",
-      image: "/src/assets/guardians.jpg"
+      image: "/public/assets/guardians.jpg"
     },
     {
       id: 6,
       title: "The Flash",
       releaseDate: "2024-10-10",
       genre: "Action, Adventure",
-      image: "/src/assets/flash.jpg"
+      image: "/public/assets/flash.jpg"
     },
     {
       id: 7,
       title: "Indiana Jones 5",
       releaseDate: "2024-11-05",
       genre: "Action, Adventure",
-      image: "/src/assets/indiana.jpg"
+      image: "/public/assets/indiana.jpg"
     }
   ];
 
